@@ -4,7 +4,7 @@ The **MyRuns Android Application** is a comprehensive fitness tracking app desig
 
 ---
 
-## 📱 Overview
+## Overview
 
 **MyRuns** enables users to:
 - Create and manage personal profiles with name, email, phone, gender, and major.
@@ -19,7 +19,7 @@ This project emphasizes Android development fundamentals including activity life
 
 ---
 
-## 🧩 Application Structure
+## Application Structure
 
 The project is composed of several key components that work together as one complete system:
 
@@ -43,7 +43,7 @@ The project is composed of several key components that work together as one comp
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - **Language:** Kotlin  
 - **UI Design:** XML (Android Layouts)  
@@ -59,7 +59,7 @@ The project is composed of several key components that work together as one comp
 
 ---
 
-## ⚙️ Key Functionalities
+## Key Functionalities
 
 - Persistent storage of user data and exercise logs  
 - Thread-safe database operations  
@@ -71,18 +71,12 @@ The project is composed of several key components that work together as one comp
 
 ---
 
-## 🧪 Development Notes
-
-During development:
-- UI design variations across Android versions were expected, and focus remained on **functionality** rather than appearance.
-- Some features such as map visualization were designed for later stages but can be extended easily.
-- The project was tested for stability under **normal usage conditions** (i.e., when permissions are granted and inputs are valid).  
-- Crashes due to unexpected or invalid user behavior (e.g., denying permissions) were not penalized but addressed when possible.
-
----
-
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/MyRuns.git
+
+
+## Note
+The project code is kept private, can be requested via email: arshdeepkaur1336@gmail.com
